@@ -2,10 +2,11 @@
 <h1>Who am I?</h1>
 </html>
 
-- 👋 Hello, I’m @lisianeca.
+- 🧑‍🏫 Hello, I’m @lisianeca.
 - 👀 I’m interested in technology and educational area.
 - 🌱 I’m currently learning programming in different languages.
 - 💞️ How do reach me: lisianeca@gmail.com! Thanks.
+- 📸 💻 🖱️
 
 <html>
 <h1>Why am I here?</h1>
